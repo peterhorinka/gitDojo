@@ -8,4 +8,4 @@ def joke():
     print("Kopp kopp. Ki az? Senki")
 
 def shout():
-    print("VAAAAAA")
+    print("VAAA3234")
